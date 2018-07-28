@@ -31,6 +31,8 @@
         "#45505b"
       ]
     },
+    "favicon": "@PROJECT_PATH@/assets/images/swordsample-128x126.png",
+    "noImageResize": "",
     "versionFirst": "4.7.1",
     "uniqCompNum": 10,
     "versionPublish": "4.7.1"
